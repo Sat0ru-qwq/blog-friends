@@ -35,7 +35,7 @@ body:
     attributes:
       label: 友链地址
       description: 请输入您的友链页面地
-      placeholder: "如: https://wells.host/friendlink/"
+      placeholder: "如: https://blog.sudoer.online/friendlink/"
     validations:
       required: true
   - type: input
@@ -43,4 +43,4 @@ body:
     attributes:
       label: 友链仓库（可选）
       description: 如果您使用 issue 作为友链源，请附上 issue 仓库链接
-      placeholder: "如: hhttps://github.com/we11s/blog-friends"
+      placeholder: "如: hhttps://github.com/sat0ru-qwq/blog-friends"
